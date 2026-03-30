@@ -99,7 +99,7 @@ pipeline {
                 }
             }
         }
-    }
+    
             stage('Optional Destroy') {
             steps {
                 script {
